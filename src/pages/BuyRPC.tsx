@@ -133,7 +133,7 @@ const BuyRPC = () => {
           <CardContent className="p-4 space-y-4">
             <div className="bg-primary/10 border border-primary/20 rounded-lg p-3 text-center">
               <p className="text-xs text-muted-foreground">Amount</p>
-              <p className="text-2xl font-bold text-primary">₦6,700</p>
+              <p className="text-2xl font-bold text-primary">₦9,700</p>
             </div>
 
             {profile?.referral_code && (
