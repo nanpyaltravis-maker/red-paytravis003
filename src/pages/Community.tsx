@@ -11,7 +11,7 @@ const Community = () => {
   };
 
   const handleJoinTelegram = () => {
-    window.open("https://t.me/Officialsupport780", "_blank");
+    window.open("https://t.me/redpay00", "_blank");
   };
 
   return (
